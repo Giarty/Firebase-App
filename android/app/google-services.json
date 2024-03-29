@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680096043413",
+    "project_id": "my-firebase-projek",
+    "storage_bucket": "my-firebase-projek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680096043413:android:98a15e845e739ec2ff669c",
+        "android_client_info": {
+          "package_name": "com.example.tugas6_2_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjepKB3hVDOw8psS4_PQAVBMFxbGqZ_rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
